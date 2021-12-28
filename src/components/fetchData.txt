@@ -1,0 +1,16 @@
+/*
+export const fetchData = () => 
+    fetch('https://datahub.io/core/population')
+    .then(response =>  response.json())
+    .then(response => response)
+    .catch(error => error) 
+*/
+    
+/*
+import Axios from 'axios'
+
+export const AxiosData = () => 
+    Axios.get('https://datahub.io/core/population')
+    .then(response => response)
+    .catch(error => error)
+*/

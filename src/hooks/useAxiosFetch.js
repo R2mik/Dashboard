@@ -3,6 +3,26 @@ import axios from 'axios'
 
 const useAxiosFetch = (dataUrl) => {
     const [data, setData] = useState([])
+    const [isLoading, setIsLoading] = useState(false)
+
+    useEffect(() => {
+        setIsLoading(true)
+        setTimeout(() => {
+            axios
+                .get(dataUrl)
+                .then((res) => {
+                    setData(res.data)
+                    setIsLoading(false)
+                })
+                .catch((err) => console.log(err))
+        },1500)
+    }, [])
+        return {data, isLoading}
+}
+
+/* 
+const useAxiosFetch = (dataUrl) => {
+    const [data, setData] = useState([])
     const [fetchError, setFetchError] = useState(null)
     const [isLoading, setIsLoading] = useState(false)
 
@@ -26,7 +46,7 @@ const useAxiosFetch = (dataUrl) => {
                     setData([])
                 }
             } finally {
-                isMounted && setTimeout(() => setIsLoading(false), 2000)
+                isMounted && setIsLoading(false)
             }
         }
 
@@ -44,5 +64,5 @@ const useAxiosFetch = (dataUrl) => {
 
     return {data, fetchError, isLoading}
 }
-
+*/
 export default useAxiosFetch
