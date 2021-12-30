@@ -1,3 +1,5 @@
+//import useAxiosFetch from '../hooks/useAxiosFetch'
+
 export const dataChart =  {
     labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
     datasets: [{
