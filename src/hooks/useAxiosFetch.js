@@ -15,11 +15,12 @@ const useAxiosFetch = (dataUrl) => {
                     setIsLoading(false)
                 })
                 .catch((err) => console.log(err))
-        },1500)
+        },)
     }, [])
         return {data, isLoading}
 }
 
+export default useAxiosFetch
 /* 
 const useAxiosFetch = (dataUrl) => {
     const [data, setData] = useState([])
@@ -64,5 +65,6 @@ const useAxiosFetch = (dataUrl) => {
 
     return {data, fetchError, isLoading}
 }
-*/
+
 export default useAxiosFetch
+*/

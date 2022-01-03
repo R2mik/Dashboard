@@ -1,0 +1,5000 @@
+{
+  "population": [
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1960,
+    "Value": 92197753
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1961,
+    "Value": 94724510
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1962,
+    "Value": 97334442
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1963,
+    "Value": 100034179
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1964,
+    "Value": 102832760
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1965,
+    "Value": 105736431
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1966,
+    "Value": 108758610
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1967,
+    "Value": 111899364
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1968,
+    "Value": 115136178
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1969,
+    "Value": 118437195
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1970,
+    "Value": 121785650
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1971,
+    "Value": 125164745
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1972,
+    "Value": 128598734
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1973,
+    "Value": 132161298
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1974,
+    "Value": 135952252
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1975,
+    "Value": 140040649
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1976,
+    "Value": 144453278
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1977,
+    "Value": 149161891
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1978,
+    "Value": 154111175
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1979,
+    "Value": 159218552
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1980,
+    "Value": 164420785
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1981,
+    "Value": 169698994
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1982,
+    "Value": 175061792
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1983,
+    "Value": 180505996
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1984,
+    "Value": 186035305
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1985,
+    "Value": 191650331
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1986,
+    "Value": 197338142
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1987,
+    "Value": 203084971
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1988,
+    "Value": 208889682
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1989,
+    "Value": 214753970
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1990,
+    "Value": 222653373
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1991,
+    "Value": 228731685
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1992,
+    "Value": 232956352
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1993,
+    "Value": 239243261
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1994,
+    "Value": 245449409
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1995,
+    "Value": 253107289
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1996,
+    "Value": 259000953
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1997,
+    "Value": 264822188
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1998,
+    "Value": 270575803
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 1999,
+    "Value": 276393837
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2000,
+    "Value": 282344154
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2001,
+    "Value": 288432163
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2002,
+    "Value": 294665185
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2003,
+    "Value": 301113849
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2004,
+    "Value": 307862843
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2005,
+    "Value": 314965793
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2006,
+    "Value": 322452754
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2007,
+    "Value": 330290716
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2008,
+    "Value": 338395961
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2009,
+    "Value": 346629220
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2010,
+    "Value": 354890042
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2011,
+    "Value": 363158703
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2012,
+    "Value": 371443547
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2013,
+    "Value": 379705719
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2014,
+    "Value": 387907748
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2015,
+    "Value": 396028278
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2016,
+    "Value": 404024433
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2017,
+    "Value": 411898965
+  },
+  {
+    "CountryName": "Arab World",
+    "CountryCode": "ARB",
+    "Year": 2018,
+    "Value": 419790588
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1960,
+    "Value": 4194710
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1961,
+    "Value": 4274060
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1962,
+    "Value": 4353628
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1963,
+    "Value": 4432217
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1964,
+    "Value": 4508198
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1965,
+    "Value": 4580374
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1966,
+    "Value": 4648367
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1967,
+    "Value": 4712526
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1968,
+    "Value": 4773902
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1969,
+    "Value": 4833842
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1970,
+    "Value": 4893454
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1971,
+    "Value": 4953087
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1972,
+    "Value": 5012612
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1973,
+    "Value": 5071954
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1974,
+    "Value": 5130833
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1975,
+    "Value": 5189153
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1976,
+    "Value": 5246563
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1977,
+    "Value": 5303307
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1978,
+    "Value": 5360561
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1979,
+    "Value": 5419884
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1980,
+    "Value": 5482206
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1981,
+    "Value": 5548512
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1982,
+    "Value": 5617885
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1983,
+    "Value": 5687092
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1984,
+    "Value": 5751543
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1985,
+    "Value": 5808179
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1986,
+    "Value": 5855443
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1987,
+    "Value": 5894827
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1988,
+    "Value": 5930179
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1989,
+    "Value": 5967018
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1990,
+    "Value": 6009251
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1991,
+    "Value": 6058308
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1992,
+    "Value": 6112815
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1993,
+    "Value": 6170351
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1994,
+    "Value": 6227335
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1995,
+    "Value": 6281190
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1996,
+    "Value": 6331280
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1997,
+    "Value": 6378552
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1998,
+    "Value": 6423827
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 1999,
+    "Value": 6468476
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2000,
+    "Value": 6513485
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2001,
+    "Value": 6559096
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2002,
+    "Value": 6604965
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2003,
+    "Value": 6650971
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2004,
+    "Value": 6696953
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2005,
+    "Value": 6742717
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2006,
+    "Value": 6788123
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2007,
+    "Value": 6833393
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2008,
+    "Value": 6878978
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2009,
+    "Value": 6925452
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2010,
+    "Value": 6973206
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2011,
+    "Value": 7022387
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2012,
+    "Value": 7072665
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2013,
+    "Value": 7123332
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2014,
+    "Value": 7173435
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2015,
+    "Value": 7222212
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2016,
+    "Value": 7269386
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2017,
+    "Value": 7314990
+  },
+  {
+    "CountryName": "Caribbean small states",
+    "CountryCode": "CSS",
+    "Year": 2018,
+    "Value": 7358965
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1960,
+    "Value": 91401764
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1961,
+    "Value": 92232738
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1962,
+    "Value": 93009498
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1963,
+    "Value": 93840016
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1964,
+    "Value": 94715795
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1965,
+    "Value": 95440988
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1966,
+    "Value": 96146336
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1967,
+    "Value": 97043270
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1968,
+    "Value": 97884022
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1969,
+    "Value": 98606630
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1970,
+    "Value": 99134548
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1971,
+    "Value": 99635258
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1972,
+    "Value": 100357161
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1973,
+    "Value": 101112680
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1974,
+    "Value": 101939916
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1975,
+    "Value": 102860571
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1976,
+    "Value": 103776068
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1977,
+    "Value": 104616884
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1978,
+    "Value": 105329397
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1979,
+    "Value": 105948616
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1980,
+    "Value": 106576687
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1981,
+    "Value": 107191491
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1982,
+    "Value": 107770028
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1983,
+    "Value": 108326149
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1984,
+    "Value": 108853466
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1985,
+    "Value": 109360713
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1986,
+    "Value": 109846594
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1987,
+    "Value": 110296425
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1988,
+    "Value": 110686740
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1989,
+    "Value": 110801640
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1990,
+    "Value": 110743128
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1991,
+    "Value": 110469467
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1992,
+    "Value": 110111454
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1993,
+    "Value": 110041924
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1994,
+    "Value": 110021594
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1995,
+    "Value": 109864246
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1996,
+    "Value": 109626194
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1997,
+    "Value": 109422013
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1998,
+    "Value": 109238340
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 1999,
+    "Value": 109060951
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2000,
+    "Value": 108447824
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2001,
+    "Value": 107660041
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2002,
+    "Value": 106959751
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2003,
+    "Value": 106624167
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2004,
+    "Value": 106331716
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2005,
+    "Value": 106041911
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2006,
+    "Value": 105772481
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2007,
+    "Value": 105378748
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2008,
+    "Value": 105001883
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2009,
+    "Value": 104800475
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2010,
+    "Value": 104421447
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2011,
+    "Value": 104174038
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2012,
+    "Value": 103935318
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2013,
+    "Value": 103713726
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2014,
+    "Value": 103496179
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2015,
+    "Value": 103257751
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2016,
+    "Value": 102994343
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2017,
+    "Value": 102738854
+  },
+  {
+    "CountryName": "Central Europe and the Baltics",
+    "CountryCode": "CEB",
+    "Year": 2018,
+    "Value": 102511922
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1960,
+    "Value": 980085256
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1961,
+    "Value": 1003279186
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1962,
+    "Value": 1027290366
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1963,
+    "Value": 1052059966
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1964,
+    "Value": 1077621038
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1965,
+    "Value": 1103954709
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1966,
+    "Value": 1131050085
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1967,
+    "Value": 1158974343
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1968,
+    "Value": 1187602236
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1969,
+    "Value": 1216984739
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1970,
+    "Value": 1247114277
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1971,
+    "Value": 1277990369
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1972,
+    "Value": 1309615000
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1973,
+    "Value": 1342025603
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1974,
+    "Value": 1375099398
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1975,
+    "Value": 1408837332
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1976,
+    "Value": 1443191766
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1977,
+    "Value": 1478222903
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1978,
+    "Value": 1514191924
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1979,
+    "Value": 1551478689
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1980,
+    "Value": 1590290482
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1981,
+    "Value": 1630688780
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1982,
+    "Value": 1672527054
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1983,
+    "Value": 1715519001
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1984,
+    "Value": 1759236282
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1985,
+    "Value": 1803388664
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1986,
+    "Value": 1847860252
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1987,
+    "Value": 1892643036
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1988,
+    "Value": 1937555154
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1989,
+    "Value": 1982404841
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1990,
+    "Value": 2029207305
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1991,
+    "Value": 2073777602
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1992,
+    "Value": 2117950211
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1993,
+    "Value": 2161909784
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1994,
+    "Value": 2205893669
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1995,
+    "Value": 2250115643
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1996,
+    "Value": 2294686411
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1997,
+    "Value": 2339478706
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1998,
+    "Value": 2384215228
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 1999,
+    "Value": 2428682278
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2000,
+    "Value": 2472913805
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2001,
+    "Value": 2516715617
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2002,
+    "Value": 2560162782
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2003,
+    "Value": 2603385880
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2004,
+    "Value": 2646598382
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2005,
+    "Value": 2689939785
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2006,
+    "Value": 2733462527
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2007,
+    "Value": 2777145806
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2008,
+    "Value": 2820903724
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2009,
+    "Value": 2864614907
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2010,
+    "Value": 2908287643
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2011,
+    "Value": 2951856336
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2012,
+    "Value": 2994852889
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2013,
+    "Value": 3037662926
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2014,
+    "Value": 3080325473
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2015,
+    "Value": 3122841922
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2016,
+    "Value": 3165142287
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2017,
+    "Value": 3207188541
+  },
+  {
+    "CountryName": "Early-demographic dividend",
+    "CountryCode": "EAR",
+    "Year": 2018,
+    "Value": 3249140605
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1960,
+    "Value": 1040958103
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1961,
+    "Value": 1044544622
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1962,
+    "Value": 1059018809
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1963,
+    "Value": 1084796352
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1964,
+    "Value": 1110214377
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1965,
+    "Value": 1136691455
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1966,
+    "Value": 1166600015
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1967,
+    "Value": 1195269923
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1968,
+    "Value": 1224531259
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1969,
+    "Value": 1257454897
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1970,
+    "Value": 1290384064
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1971,
+    "Value": 1324084715
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1972,
+    "Value": 1355934900
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1973,
+    "Value": 1386188710
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1974,
+    "Value": 1416257366
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1975,
+    "Value": 1443359147
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1976,
+    "Value": 1467569010
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1977,
+    "Value": 1490449457
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1978,
+    "Value": 1513227369
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1979,
+    "Value": 1536434993
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1980,
+    "Value": 1559194619
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1981,
+    "Value": 1582789699
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1982,
+    "Value": 1608678553
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1983,
+    "Value": 1634539937
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1984,
+    "Value": 1659131214
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1985,
+    "Value": 1684294889
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1986,
+    "Value": 1710989831
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1987,
+    "Value": 1739071545
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1988,
+    "Value": 1767429690
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1989,
+    "Value": 1795159128
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1990,
+    "Value": 1822193192
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1991,
+    "Value": 1848222188
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1992,
+    "Value": 1872480731
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1993,
+    "Value": 1895897521
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1994,
+    "Value": 1919359723
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1995,
+    "Value": 1942431457
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1996,
+    "Value": 1965146504
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1997,
+    "Value": 1987315562
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1998,
+    "Value": 2008705489
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 1999,
+    "Value": 2028650274
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2000,
+    "Value": 2047640119
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2001,
+    "Value": 2065912076
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2002,
+    "Value": 2083186112
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2003,
+    "Value": 2099602439
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2004,
+    "Value": 2115458616
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2005,
+    "Value": 2131146832
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2006,
+    "Value": 2146744075
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2007,
+    "Value": 2161785573
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2008,
+    "Value": 2177119142
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2009,
+    "Value": 2192059415
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2010,
+    "Value": 2206884624
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2011,
+    "Value": 2221673110
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2012,
+    "Value": 2236819053
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2013,
+    "Value": 2252046977
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2014,
+    "Value": 2267482299
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2015,
+    "Value": 2282855831
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2016,
+    "Value": 2298514046
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2017,
+    "Value": 2314202003
+  },
+  {
+    "CountryName": "East Asia & Pacific",
+    "CountryCode": "EAS",
+    "Year": 2018,
+    "Value": 2328220870
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1960,
+    "Value": 894880101
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1961,
+    "Value": 894484115
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1962,
+    "Value": 906418827
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1963,
+    "Value": 929639988
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1964,
+    "Value": 952499842
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1965,
+    "Value": 976366448
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1966,
+    "Value": 1003805626
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1967,
+    "Value": 1030347262
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1968,
+    "Value": 1057855221
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1969,
+    "Value": 1087061065
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1970,
+    "Value": 1117169518
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1971,
+    "Value": 1147914103
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1972,
+    "Value": 1176916274
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1973,
+    "Value": 1204963130
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1974,
+    "Value": 1231488459
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1975,
+    "Value": 1255575508
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1976,
+    "Value": 1277794190
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1977,
+    "Value": 1298410796
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1978,
+    "Value": 1318993009
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1979,
+    "Value": 1339882617
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1980,
+    "Value": 1360444852
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1981,
+    "Value": 1381740161
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1982,
+    "Value": 1405396789
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1983,
+    "Value": 1429187408
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1984,
+    "Value": 1451910036
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1985,
+    "Value": 1475348519
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1986,
+    "Value": 1500319170
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1987,
+    "Value": 1526783271
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1988,
+    "Value": 1553557307
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1989,
+    "Value": 1579675516
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1990,
+    "Value": 1605197175
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1991,
+    "Value": 1629641399
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1992,
+    "Value": 1652538259
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1993,
+    "Value": 1674590518
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1994,
+    "Value": 1696474639
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1995,
+    "Value": 1717912312
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1996,
+    "Value": 1738960485
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1997,
+    "Value": 1759761226
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1998,
+    "Value": 1779799008
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 1999,
+    "Value": 1798649990
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2000,
+    "Value": 1816466142
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2001,
+    "Value": 1833433229
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2002,
+    "Value": 1849617640
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2003,
+    "Value": 1865142700
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2004,
+    "Value": 1880258797
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2005,
+    "Value": 1895285323
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2006,
+    "Value": 1909901290
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2007,
+    "Value": 1924028068
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2008,
+    "Value": 1938067140
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2009,
+    "Value": 1952027348
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2010,
+    "Value": 1965964309
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2011,
+    "Value": 1980045666
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2012,
+    "Value": 1994401378
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2013,
+    "Value": 2008932012
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2014,
+    "Value": 2023609315
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2015,
+    "Value": 2038202511
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2016,
+    "Value": 2053116851
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2017,
+    "Value": 2068155660
+  },
+  {
+    "CountryName": "East Asia & Pacific (excluding high income)",
+    "CountryCode": "EAP",
+    "Year": 2018,
+    "Value": 2081651801
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1960,
+    "Value": 883445573
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1961,
+    "Value": 882807967
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1962,
+    "Value": 894536179
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1963,
+    "Value": 917563055
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1964,
+    "Value": 940205368
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1965,
+    "Value": 963806254
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1966,
+    "Value": 990927389
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1967,
+    "Value": 1017110646
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1968,
+    "Value": 1044230714
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1969,
+    "Value": 1073035641
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1970,
+    "Value": 1102743566
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1971,
+    "Value": 1133088651
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1972,
+    "Value": 1161692276
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1973,
+    "Value": 1189353307
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1974,
+    "Value": 1215519616
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1975,
+    "Value": 1239283620
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1976,
+    "Value": 1261221825
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1977,
+    "Value": 1281596026
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1978,
+    "Value": 1301958160
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1979,
+    "Value": 1322627335
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1980,
+    "Value": 1342952245
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1981,
+    "Value": 1363987509
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1982,
+    "Value": 1387365773
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1983,
+    "Value": 1410865625
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1984,
+    "Value": 1433295147
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1985,
+    "Value": 1456445290
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1986,
+    "Value": 1481135087
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1987,
+    "Value": 1507322668
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1988,
+    "Value": 1533819043
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1989,
+    "Value": 1559650576
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1990,
+    "Value": 1584871832
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1991,
+    "Value": 1608999005
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1992,
+    "Value": 1631566815
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1993,
+    "Value": 1653289954
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1994,
+    "Value": 1674861279
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1995,
+    "Value": 1696014016
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1996,
+    "Value": 1716810429
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1997,
+    "Value": 1737388752
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1998,
+    "Value": 1757224494
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 1999,
+    "Value": 1775880231
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2000,
+    "Value": 1793498351
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2001,
+    "Value": 1810261141
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2002,
+    "Value": 1826238744
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2003,
+    "Value": 1841560579
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2004,
+    "Value": 1856486252
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2005,
+    "Value": 1871341375
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2006,
+    "Value": 1885806859
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2007,
+    "Value": 1899800530
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2008,
+    "Value": 1913718210
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2009,
+    "Value": 1927560609
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2010,
+    "Value": 1941377349
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2011,
+    "Value": 1955334267
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2012,
+    "Value": 1969562739
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2013,
+    "Value": 1983964453
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2014,
+    "Value": 1998513398
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2015,
+    "Value": 2012980531
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2016,
+    "Value": 2027771091
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2017,
+    "Value": 2042687863
+  },
+  {
+    "CountryName": "East Asia & Pacific (IDA & IBRD countries)",
+    "CountryCode": "TEA",
+    "Year": 2018,
+    "Value": 2056064424
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1960,
+    "Value": 265203934
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1961,
+    "Value": 267621101
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1962,
+    "Value": 270110056
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1963,
+    "Value": 272655378
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1964,
+    "Value": 275163387
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1965,
+    "Value": 277650957
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1966,
+    "Value": 279969040
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1967,
+    "Value": 281974883
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1968,
+    "Value": 283866409
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1969,
+    "Value": 285778637
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1970,
+    "Value": 287338845
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1971,
+    "Value": 288923420
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1972,
+    "Value": 290874595
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1973,
+    "Value": 292728234
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1974,
+    "Value": 294399225
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1975,
+    "Value": 295923527
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1976,
+    "Value": 297251524
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1977,
+    "Value": 298441845
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1978,
+    "Value": 299652820
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1979,
+    "Value": 300886490
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1980,
+    "Value": 302184230
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1981,
+    "Value": 303343135
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1982,
+    "Value": 304174240
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1983,
+    "Value": 304787493
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1984,
+    "Value": 305299134
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1985,
+    "Value": 305877727
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1986,
+    "Value": 306640638
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1987,
+    "Value": 307488390
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1988,
+    "Value": 308516473
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1989,
+    "Value": 309837592
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1990,
+    "Value": 311262588
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1991,
+    "Value": 312708137
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1992,
+    "Value": 314162058
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1993,
+    "Value": 315449099
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1994,
+    "Value": 316366779
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1995,
+    "Value": 317181448
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1996,
+    "Value": 318003015
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1997,
+    "Value": 318761762
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1998,
+    "Value": 319433981
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 1999,
+    "Value": 320258898
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2000,
+    "Value": 321310791
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2001,
+    "Value": 322547874
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2002,
+    "Value": 324125336
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2003,
+    "Value": 325885964
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2004,
+    "Value": 327682505
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2005,
+    "Value": 329380417
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2006,
+    "Value": 330922789
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2007,
+    "Value": 332645165
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2008,
+    "Value": 334274725
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2009,
+    "Value": 335360890
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2010,
+    "Value": 336151479
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2011,
+    "Value": 335419643
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2012,
+    "Value": 336159194
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2013,
+    "Value": 337302113
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2014,
+    "Value": 338466255
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2015,
+    "Value": 339533474
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2016,
+    "Value": 340616924
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2017,
+    "Value": 341164362
+  },
+  {
+    "CountryName": "Euro area",
+    "CountryCode": "EMU",
+    "Year": 2018,
+    "Value": 341783171
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1960,
+    "Value": 667253650
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1961,
+    "Value": 674962981
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1962,
+    "Value": 682921730
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1963,
+    "Value": 690946639
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1964,
+    "Value": 698901133
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1965,
+    "Value": 706626086
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1966,
+    "Value": 713395321
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1967,
+    "Value": 719979928
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1968,
+    "Value": 726307440
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1969,
+    "Value": 732494115
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1970,
+    "Value": 738123474
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1971,
+    "Value": 743747729
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1972,
+    "Value": 749899411
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1973,
+    "Value": 755883707
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1974,
+    "Value": 761661778
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1975,
+    "Value": 767264967
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1976,
+    "Value": 772775173
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1977,
+    "Value": 778073497
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1978,
+    "Value": 783310523
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1979,
+    "Value": 788572897
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1980,
+    "Value": 794002749
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1981,
+    "Value": 799296289
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1982,
+    "Value": 804063632
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1983,
+    "Value": 808620566
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1984,
+    "Value": 813373068
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1985,
+    "Value": 818222369
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1986,
+    "Value": 823200868
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1987,
+    "Value": 828219836
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1988,
+    "Value": 833273189
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1989,
+    "Value": 838162533
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1990,
+    "Value": 842570541
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1991,
+    "Value": 846356322
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1992,
+    "Value": 849757442
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1993,
+    "Value": 852712876
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1994,
+    "Value": 854685450
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1995,
+    "Value": 856212881
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1996,
+    "Value": 857577538
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1997,
+    "Value": 858882872
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1998,
+    "Value": 860015493
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 1999,
+    "Value": 861035457
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2000,
+    "Value": 861993393
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2001,
+    "Value": 863083216
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2002,
+    "Value": 864648977
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2003,
+    "Value": 866925884
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2004,
+    "Value": 869516666
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2005,
+    "Value": 872163396
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2006,
+    "Value": 874862170
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2007,
+    "Value": 878004122
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2008,
+    "Value": 881531261
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2009,
+    "Value": 885170595
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2010,
+    "Value": 888627318
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2011,
+    "Value": 890862941
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2012,
+    "Value": 894486795
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2013,
+    "Value": 898766094
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2014,
+    "Value": 903129978
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2015,
+    "Value": 907498192
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2016,
+    "Value": 911812364
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2017,
+    "Value": 915420161
+  },
+  {
+    "CountryName": "Europe & Central Asia",
+    "CountryCode": "ECS",
+    "Year": 2018,
+    "Value": 918793590
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1960,
+    "Value": 275147578
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1961,
+    "Value": 279443876
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1962,
+    "Value": 283762877
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1963,
+    "Value": 288099625
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1964,
+    "Value": 292424434
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1965,
+    "Value": 296682673
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1966,
+    "Value": 300278116
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1967,
+    "Value": 303940876
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1968,
+    "Value": 307516657
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1969,
+    "Value": 311023409
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1970,
+    "Value": 314539976
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1971,
+    "Value": 318052830
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1972,
+    "Value": 321560922
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1973,
+    "Value": 325046534
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1974,
+    "Value": 328549115
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1975,
+    "Value": 332071182
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1976,
+    "Value": 335746714
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1977,
+    "Value": 339361874
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1978,
+    "Value": 342936802
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1979,
+    "Value": 346489990
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1980,
+    "Value": 350139462
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1981,
+    "Value": 353859116
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1982,
+    "Value": 357399180
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1983,
+    "Value": 360920890
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1984,
+    "Value": 364686101
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1985,
+    "Value": 368464042
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1986,
+    "Value": 372210556
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1987,
+    "Value": 375941782
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1988,
+    "Value": 379557335
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1989,
+    "Value": 382800641
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1990,
+    "Value": 385427601
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1991,
+    "Value": 387394807
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1992,
+    "Value": 389005125
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1993,
+    "Value": 390255767
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1994,
+    "Value": 390879149
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1995,
+    "Value": 391293819
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1996,
+    "Value": 391652704
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1997,
+    "Value": 392007080
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1998,
+    "Value": 392243961
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 1999,
+    "Value": 392211706
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2000,
+    "Value": 392301484
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2001,
+    "Value": 392050558
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2002,
+    "Value": 391720978
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2003,
+    "Value": 391882450
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2004,
+    "Value": 392243981
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2005,
+    "Value": 392658986
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2006,
+    "Value": 393216869
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2007,
+    "Value": 393919037
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2008,
+    "Value": 394991819
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2009,
+    "Value": 396743394
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2010,
+    "Value": 398783138
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2011,
+    "Value": 401012737
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2012,
+    "Value": 403265869
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2013,
+    "Value": 405778196
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2014,
+    "Value": 408278056
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2015,
+    "Value": 410844329
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2016,
+    "Value": 413361214
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2017,
+    "Value": 415710935
+  },
+  {
+    "CountryName": "Europe & Central Asia (excluding high income)",
+    "CountryCode": "ECA",
+    "Year": 2018,
+    "Value": 417797257
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1960,
+    "Value": 308925209
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1961,
+    "Value": 313575168
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1962,
+    "Value": 318268089
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1963,
+    "Value": 323037300
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1964,
+    "Value": 327816760
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1965,
+    "Value": 332408546
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1966,
+    "Value": 336269817
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1967,
+    "Value": 340266714
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1968,
+    "Value": 344176940
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1969,
+    "Value": 347963199
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1970,
+    "Value": 351616528
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1971,
+    "Value": 355267605
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1972,
+    "Value": 359067136
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1973,
+    "Value": 362873895
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1974,
+    "Value": 366718674
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1975,
+    "Value": 370598463
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1976,
+    "Value": 374638948
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1977,
+    "Value": 378610495
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1978,
+    "Value": 382483487
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1979,
+    "Value": 386331985
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1980,
+    "Value": 390313394
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1981,
+    "Value": 394369212
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1982,
+    "Value": 398263895
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1983,
+    "Value": 402150952
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1984,
+    "Value": 406270520
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1985,
+    "Value": 410367344
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1986,
+    "Value": 414388121
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1987,
+    "Value": 418349572
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1988,
+    "Value": 422137029
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1989,
+    "Value": 425529430
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1990,
+    "Value": 428315751
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1991,
+    "Value": 430330022
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1992,
+    "Value": 431944610
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1993,
+    "Value": 433317638
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1994,
+    "Value": 434073825
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1995,
+    "Value": 434508847
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1996,
+    "Value": 434834171
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1997,
+    "Value": 435191660
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1998,
+    "Value": 435439577
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 1999,
+    "Value": 435384574
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2000,
+    "Value": 435028415
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2001,
+    "Value": 434598276
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2002,
+    "Value": 434253516
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2003,
+    "Value": 434390419
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2004,
+    "Value": 434730803
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2005,
+    "Value": 435134576
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2006,
+    "Value": 435669295
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2007,
+    "Value": 436349814
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2008,
+    "Value": 437427283
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2009,
+    "Value": 439200178
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2010,
+    "Value": 441121359
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2011,
+    "Value": 443356614
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2012,
+    "Value": 445596591
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2013,
+    "Value": 448074081
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2014,
+    "Value": 450528180
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2015,
+    "Value": 453034345
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2016,
+    "Value": 455505650
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2017,
+    "Value": 457810292
+  },
+  {
+    "CountryName": "Europe & Central Asia (IDA & IBRD countries)",
+    "CountryCode": "TEC",
+    "Year": 2018,
+    "Value": 459865205
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1960,
+    "Value": 356906076
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1961,
+    "Value": 359998418
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1962,
+    "Value": 363200473
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1963,
+    "Value": 366516491
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1964,
+    "Value": 369850244
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1965,
+    "Value": 373032732
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1966,
+    "Value": 376039119
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1967,
+    "Value": 378917977
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1968,
+    "Value": 381605443
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1969,
+    "Value": 384216975
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1970,
+    "Value": 386322908
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1971,
+    "Value": 388391969
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1972,
+    "Value": 390994983
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1973,
+    "Value": 393524737
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1974,
+    "Value": 395949389
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1975,
+    "Value": 398316577
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1976,
+    "Value": 400473489
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1977,
+    "Value": 402425490
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1978,
+    "Value": 404271768
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1979,
+    "Value": 406051885
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1980,
+    "Value": 407875852
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1981,
+    "Value": 409551932
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1982,
+    "Value": 410895587
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1983,
+    "Value": 411974420
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1984,
+    "Value": 412931311
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1985,
+    "Value": 413924483
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1986,
+    "Value": 415076369
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1987,
+    "Value": 416301856
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1988,
+    "Value": 417653043
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1989,
+    "Value": 419073156
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1990,
+    "Value": 420477979
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1991,
+    "Value": 421730525
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1992,
+    "Value": 422963892
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1993,
+    "Value": 424341130
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1994,
+    "Value": 425399124
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1995,
+    "Value": 426203343
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1996,
+    "Value": 426896863
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1997,
+    "Value": 427538058
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1998,
+    "Value": 428109863
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 1999,
+    "Value": 428815493
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2000,
+    "Value": 429328624
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2001,
+    "Value": 429895628
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2002,
+    "Value": 430881944
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2003,
+    "Value": 432415939
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2004,
+    "Value": 434040236
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2005,
+    "Value": 435581949
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2006,
+    "Value": 436998049
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2007,
+    "Value": 438468400
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2008,
+    "Value": 439876674
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2009,
+    "Value": 440917800
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2010,
+    "Value": 441532412
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2011,
+    "Value": 440746976
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2012,
+    "Value": 441395932
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2013,
+    "Value": 442469471
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2014,
+    "Value": 443576663
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2015,
+    "Value": 444543759
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2016,
+    "Value": 445485081
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2017,
+    "Value": 446132239
+  },
+  {
+    "CountryName": "European Union",
+    "CountryCode": "EUU",
+    "Year": 2018,
+    "Value": 446786293
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1960,
+    "Value": 174658134
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1961,
+    "Value": 178611702
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1962,
+    "Value": 182724039
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1963,
+    "Value": 186993460
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1964,
+    "Value": 191428676
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1965,
+    "Value": 196036841
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1966,
+    "Value": 200829540
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1967,
+    "Value": 205811110
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1968,
+    "Value": 210968809
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1969,
+    "Value": 216287242
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1970,
+    "Value": 221759427
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1971,
+    "Value": 227361646
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1972,
+    "Value": 233111868
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1973,
+    "Value": 239081811
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1974,
+    "Value": 245376113
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1975,
+    "Value": 252055911
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1976,
+    "Value": 259169700
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1977,
+    "Value": 266666417
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1978,
+    "Value": 274398155
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1979,
+    "Value": 282158744
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1980,
+    "Value": 289802066
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1981,
+    "Value": 297288184
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1982,
+    "Value": 304675651
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1983,
+    "Value": 312053842
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1984,
+    "Value": 319554132
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1985,
+    "Value": 327284879
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1986,
+    "Value": 335239402
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1987,
+    "Value": 343415856
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1988,
+    "Value": 351924856
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1989,
+    "Value": 360897419
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1990,
+    "Value": 372396241
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1991,
+    "Value": 382637815
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1992,
+    "Value": 393457409
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1993,
+    "Value": 404641095
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1994,
+    "Value": 415886665
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1995,
+    "Value": 426987157
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1996,
+    "Value": 437852730
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1997,
+    "Value": 448573338
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1998,
+    "Value": 459140396
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 1999,
+    "Value": 469945426
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2000,
+    "Value": 481415091
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2001,
+    "Value": 493531246
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2002,
+    "Value": 506165557
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2003,
+    "Value": 519241843
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2004,
+    "Value": 532634908
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2005,
+    "Value": 546253003
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2006,
+    "Value": 560082826
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2007,
+    "Value": 574141732
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2008,
+    "Value": 588463731
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2009,
+    "Value": 603084255
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2010,
+    "Value": 618029522
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2011,
+    "Value": 633349420
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2012,
+    "Value": 649017914
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2013,
+    "Value": 664910214
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2014,
+    "Value": 680822851
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2015,
+    "Value": 696655368
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2016,
+    "Value": 712367454
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2017,
+    "Value": 728015702
+  },
+  {
+    "CountryName": "Fragile and conflict affected situations",
+    "CountryCode": "FCS",
+    "Year": 2018,
+    "Value": 743958386
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1960,
+    "Value": 161734357
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1961,
+    "Value": 165573152
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1962,
+    "Value": 169567094
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1963,
+    "Value": 173722855
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1964,
+    "Value": 178048171
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1965,
+    "Value": 182548785
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1966,
+    "Value": 187227582
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1967,
+    "Value": 192084649
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1968,
+    "Value": 197119436
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1969,
+    "Value": 202329943
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1970,
+    "Value": 207714294
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1971,
+    "Value": 213272637
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1972,
+    "Value": 219004370
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1973,
+    "Value": 224905331
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1974,
+    "Value": 230970305
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1975,
+    "Value": 237195002
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1976,
+    "Value": 243590895
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1977,
+    "Value": 250160346
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1978,
+    "Value": 256880793
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1979,
+    "Value": 263721622
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1980,
+    "Value": 270668574
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1981,
+    "Value": 277719103
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1982,
+    "Value": 284905162
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1983,
+    "Value": 292290346
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1984,
+    "Value": 299959473
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1985,
+    "Value": 307980296
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1986,
+    "Value": 316358131
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1987,
+    "Value": 325095184
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1988,
+    "Value": 334249178
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1989,
+    "Value": 343887505
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1990,
+    "Value": 354047260
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1991,
+    "Value": 364782185
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1992,
+    "Value": 376055904
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1993,
+    "Value": 387705076
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1994,
+    "Value": 399503946
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1995,
+    "Value": 411298620
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1996,
+    "Value": 423019190
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1997,
+    "Value": 434736174
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1998,
+    "Value": 446608340
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 1999,
+    "Value": 458867402
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2000,
+    "Value": 471680794
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2001,
+    "Value": 485112686
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2002,
+    "Value": 499113575
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2003,
+    "Value": 513601239
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2004,
+    "Value": 528444632
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2005,
+    "Value": 543555326
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2006,
+    "Value": 558909236
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2007,
+    "Value": 574560260
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2008,
+    "Value": 590590368
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2009,
+    "Value": 607115564
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2010,
+    "Value": 624219326
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2011,
+    "Value": 641921311
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2012,
+    "Value": 660193774
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2013,
+    "Value": 679012664
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2014,
+    "Value": 698336451
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2015,
+    "Value": 718128416
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2016,
+    "Value": 738387254
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2017,
+    "Value": 759106221
+  },
+  {
+    "CountryName": "Heavily indebted poor countries (HIPC)",
+    "CountryCode": "HPC",
+    "Year": 2018,
+    "Value": 780234406
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1960,
+    "Value": 760193906
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1961,
+    "Value": 771546780
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1962,
+    "Value": 781558432
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1963,
+    "Value": 791500756
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1964,
+    "Value": 801349486
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1965,
+    "Value": 810831993
+  },
+  {
+    "CountryName": "High income",
+    "CountryCode": "HIC",
+    "Year": 1966,
+    "Value": 819708674}
+  ]}
