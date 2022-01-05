@@ -16,7 +16,7 @@ const useAxiosFetch = (dataUrl) => {
                 })
                 .catch((err) => console.log(err))
         },)
-    }, [])
+    },[dataUrl])
         return {data, isLoading}
 }
 
