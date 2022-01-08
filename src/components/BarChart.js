@@ -1,58 +1,76 @@
 import React from 'react'
-
-import {Chart as ChartJS, BarElement, CategoryScale, LinearScale} from 'chart.js'
+import {Chart as ChartJS, BarElement, CategoryScale, LinearScale, Title, Tooltip, Legend,} from 'chart.js'
 import {Bar} from 'react-chartjs-2'
 
 import useAxiosFetch from '../hooks/useAxiosFetch'
+import { COUNTRY_CODES } from '../utils/utils'
 
 
 ChartJS.register(
     CategoryScale,
     LinearScale,
-    BarElement
+    BarElement,
+    Title,
+    Tooltip,
+    Legend
 )
 
+const compareCurrency = (a, b) => {
+    return b.count - a.count;
+}
+
 export const BarChart = () => {
-    const {data} = useAxiosFetch('https://pkgstore.datahub.io/core/population/population_json/data/315178266aa86b71057e993f98faf886/population_json.json')
-    const obj = Object.values(data).filter(cc => cc["Country Code"] === "ARB"); //filtered objects by country code
-    const years = obj.map(y => y.Year);
-    const value = obj.map(x => x.Value);
+    const {data} = useAxiosFetch(COUNTRY_CODES)
+    /*filter currency from data */
+    const currency = data
+        .map(currencyName => currencyName["ISO4217-currency_name"]) //map all currency 
+        .filter((currencyName, index, array) => array.indexOf(currencyName) === index)
+        .filter(currencyName => currencyName ) //remove null from array
+    
+    /*counting currency by type*/
+    const counts = currency
+        .map(currencyName2 => ({
+            type: currencyName2,
+            count: data.filter(amount => amount["ISO4217-currency_name"] === currencyName2).length
+        }))
+        .sort(compareCurrency)
+
+    const xAxis = counts.map(x => x.type)
+    const yAxis = counts.map(y => y.count)
+
     return (
         <div>
                 <Bar
                 data = {
                     {
-                        labels: years,
+                        labels: xAxis,
                         datasets: [
                             {
-                            label: 'Population',
-                            data: value,
+                            label: 'Number of countries using the currency',
+                            data: yAxis,
                             borderWidth: 2,
-                            backgroundColor: 'rgb(75, 192, 192)',
-                            borderColor: 'rgb(75, 192, 192)',
+                            backgroundColor: 'rgb(102, 255, 102)',
+                            borderColor: 'rgb(102, 255, 102)',
                             tension: 0.3
                             }
                         ]
                     }
                 }
-                height={400}
-                width={600}
+                height={2000}
+                
                 options={{
+                    indexAxis: 'y',
                     maintainAspectRatio: false,
                     scales: {
                         y:{
                                 title:{
                                     display: true,
-                                    text: 'Number of citizens'
+                                    text: 'Currency name',
+                                    font: {
+                                        size: 20
+                                    }
                             }
                         },
-                        x:{
-                            title:{
-                                display: true,
-                                text: 'Year',
-                                align: 'end',
-                        }
-                    }
                 }}}
 
                 />

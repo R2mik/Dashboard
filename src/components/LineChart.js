@@ -2,6 +2,7 @@ import React from 'react'
 import {Chart as ChartJS, LineElement, PointElement, CategoryScale, LinearScale, Title, Tooltip, Legend} from 'chart.js'
 import {Line} from 'react-chartjs-2'
 import useAxiosFetch from '../hooks/useAxiosFetch'
+import { POPULATION } from '../utils/utils'
 
 ChartJS.register(
     CategoryScale,
@@ -14,12 +15,14 @@ ChartJS.register(
     )
     
     export const LineChart = () => {
-        const {data} = useAxiosFetch('https://pkgstore.datahub.io/core/population/population_json/data/315178266aa86b71057e993f98faf886/population_json.json')
-        const obj = Object.values(data).filter(cc => cc["Country Code"] === "ARB"); //filtered objects by country code
+        const {data, isLoading} = useAxiosFetch(POPULATION)
+        const obj = Object.values(data).filter(cc => cc["Country Code"] === "POL"); //filtered objects by country code
         const years = obj.map(y => y.Year);
-        const value = obj.map(x => x.Value);
+        const value = obj.map(v => v.Value);
         return (
             <div>
+                {isLoading && "Loading . . ."}
+                {!isLoading && 
                     <Line
                     data = {
                         {
@@ -51,9 +54,12 @@ ChartJS.register(
                         },
                         scales: {
                             y:{
-                                    title:{
-                                        display: true,
-                                        text: 'Number of citizens'
+                                title:{
+                                    display: true,
+                                    text: 'Number of citizens',
+                                    font:{
+                                        size: 20,
+                                    }
                                 }
                             },
                             x:{
@@ -61,11 +67,13 @@ ChartJS.register(
                                     display: true,
                                     text: 'Year',
                                     align: 'end',
+                                    font:{
+                                        size: 20,
+                                    }
+                                }
                             }
                         }
-                    }}}
-
-                    />
+                    }}/>}
             </div>
         )
     }
