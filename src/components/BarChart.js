@@ -20,7 +20,7 @@ const compareCurrency = (a, b) => {
 }
 
 export const BarChart = () => {
-    const {data} = useAxiosFetch(COUNTRY_CODES)
+    const {data, isLoading} = useAxiosFetch(COUNTRY_CODES)
     /*filter currency from data */
     const currency = data
         .map(currencyName => currencyName["ISO4217-currency_name"]) //map all currency 
@@ -40,40 +40,41 @@ export const BarChart = () => {
 
     return (
         <div>
+            {isLoading && "Loading . . ."}
+            {!isLoading && 
                 <Bar
-                data = {
-                    {
-                        labels: xAxis,
-                        datasets: [
-                            {
-                            label: 'Number of countries using the currency',
-                            data: yAxis,
-                            borderWidth: 2,
-                            backgroundColor: 'rgb(102, 255, 102)',
-                            borderColor: 'rgb(102, 255, 102)',
-                            tension: 0.3
-                            }
-                        ]
+                    data = {
+                        {
+                            labels: xAxis,
+                            datasets: [
+                                {
+                                label: 'Number of countries using the currency',
+                                data: yAxis,
+                                borderWidth: 2,
+                                backgroundColor: 'rgb(102, 255, 102)',
+                                borderColor: 'rgb(102, 255, 102)',
+                                tension: 0.3
+                                }
+                            ]
+                        }
                     }
-                }
-                height={2000}
-                
-                options={{
-                    indexAxis: 'y',
-                    maintainAspectRatio: false,
-                    scales: {
-                        y:{
-                                title:{
-                                    display: true,
-                                    text: 'Currency name',
-                                    font: {
-                                        size: 20
-                                    }
-                            }
-                        },
-                }}}
-
-                />
+                    height={2800}
+                    
+                    options={{
+                        indexAxis: 'y',
+                        maintainAspectRatio: false,
+                        scales: {
+                            y:{
+                                    title:{
+                                        display: true,
+                                        text: 'Currency name',
+                                        font: {
+                                            size: 20
+                                        }
+                                }
+                            },
+                    }}}
+                />}
         </div>
     )
 }
