@@ -29,7 +29,7 @@ ChartJS.register(
                             labels: years,
                             datasets: [
                                 {
-                                label: 'Population',
+                                label: `Population of Poland` ,
                                 data: value,
                                 borderWidth: 2,
                                 backgroundColor: 'rgb(75, 192, 192)',
